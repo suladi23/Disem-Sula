@@ -7,6 +7,6 @@ nav:
   - title: "Home"
     url: "/"
   - title: "Projects"
-    url: "/projects"
+    url: "/projects/"
   - title: "Literature reviews"
-    url: "/Literature reviews"
+    url: "/Literature reviews/"
