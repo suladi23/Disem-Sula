@@ -10,6 +10,10 @@ After completing a first year master degree in Quantitative Economics, I joined 
 
 This site showcases my projects, and other writings undergone during my master.
 
+- [Projects](/projects/)
+- [Literature Reviews](/Literature-reviews/)
+- [Master Thesis](/Master-Thesis-(ongoing)/)
+
 # Contact
 
 - **Email**: [disem.sula@hotmail.it](mailto:disem.sula@hotmail.it)
