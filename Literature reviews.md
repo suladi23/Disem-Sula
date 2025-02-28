@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Literature reviews"
-permalink: /Literature reviews/
 ---
 
 # Literature Reviews & Writing Samples
