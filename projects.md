@@ -17,14 +17,14 @@ What we find is a significant decline in the percentage of RD&D investment in nu
 - **Tools Used**: Python
 - **Description**: Developing econometrics skills, here we focused on Event Studies as our identification strategy. In this project we performed an event study on stock splits for the year 2010 using CRSP daily return data.
 What we are looking for is whether stock splits announcements have an impact on stock returns, looking at abnormal returns (difference between returns given by a model and the actual returns recorded from the data)
-- [**Download PDF**](/docs/Sula_Disem_Corporate Finance (event studies).pdf)
+- [**Download PDF**](/docs/Sula_Disem_Corporate Finance-event studies.pdf)
 
 ## Project 3: [Difference in Difference analysis on firms access to debt given their credit rating]
 - **Tools Used**: Python + STATA
 - **Description**: Developing econometrics skills, here we focused on Difference in Difference analysis. Difference‐in‐difference analysis of nonfinancial corporate behavior (Compustat firms), using
 a data window going from 1985 to 1994 and consider the end of 1989 as the “event date”, when the Financial Institutions Reform, Recovery, and Enforcement Act (FIRREA) was passed, forcing all savings and loans to eliminate speculative grade debt from their balance sheets.
 Here I decided to use mainly python for filtering and for graph visualization, while summary statistics and diff-in-diff regressions were run on STATA (within my jupyter notebook).
-- [**Download PDF**](/docs/Sula Disem - Corporate Finance (Difference in Difference).pdf)
+- [**Download PDF**](/docs/Sula Disem - Corporate Finance - Difference in Difference.pdf)
 
 ## Project 4: [Problem set exercise on Stambaugh (1999) Predictive Regression]
 - **Tools Used**: Python
