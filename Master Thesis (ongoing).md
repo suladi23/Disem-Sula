@@ -15,13 +15,12 @@ This research project will be crucial for my future research on Carbon Markets, 
 - **Summary**: The objective of this thesis is to analyze the behavior of corn markets and focus on the impact of financialization by studying:
 1. The main players in the corn futures market and their roles.
 2. The behavior of corn futures prices, with a focus on financialization and the term structure of corn.
-- [**Download PDF**](/assets/Outline.pdf)
+- [**Download PDF**](/docs/Who does what in the corn market-a study on financialization.pdf)
 
 - **Title**: "Literature overview"
 - **Summary**: The objective of this document was to create some literature cards where we analyse several papers and put them altogether for what is going to be the writing of the literature review part of the thesis.
 The uploaded file is simply a pdf written on Latex, but the graph in the first page I created it using Obsidian, using tags and using Zotero for references management.
-- [**Download PDF**](/assets/Outline.pdf)
+- [**Download PDF**](/docs/Who does what in the corn market-a study on financialization_Literature Overview.pdf)
 
 - **Title**: "Literature review"
 - **Summary**: Literature review section of the final master thesis research, still ongoing.
-- [**Download PDF**](/assets/literature review.pdf)
