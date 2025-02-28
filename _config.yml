@@ -1,3 +1,12 @@
 theme: minima
 title: "My Portfolio"
 description: "Writings and data analysis projects."
+
+
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Projects"
+    url: "/projects"
+  - title: "Literature reviews"
+    url: "/Literature reviews"
