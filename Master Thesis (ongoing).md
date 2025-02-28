@@ -3,6 +3,9 @@ layout: default
 title: "Master Thesis (ongoing)"
 ---
 
+***Who does what in the corn market: a study on financialization***
+
+
 This research project is located within broader research on the propagation to energy markets of agricultural commodities price change. The research is realized in collaboration with the Collège de France, within the Modeling Agricultural TransitionS (MATS) project.
 Before addressing climate impact, it is crucial to better understand the commodity itself and its informational content.
 
