@@ -6,7 +6,7 @@ title: Home
 <div style="display: flex; align-items: flex-start; gap: 2rem; margin-bottom: 2rem;">
   <!-- Left Column: Photo -->
   <div style="flex: 0 0 auto;">
-    <img src="/docs/images/Disem picture.png" alt="Profile Photo" style="max-width: 300px; border-radius: 4px;" />
+    <img src="/docs/images/Disem picture.png" alt="Profile Photo" />
   </div>
   <!-- Right Column: Text -->
   <div style="flex: 1;">
