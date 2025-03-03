@@ -16,7 +16,7 @@ title: Home
       After completing a first year master degree in Quantitative Economics, I joined the MSc in Research in Finance to specialise in Finance, especially in Sustainable Finance, including energy and commodities to boost the transition to a green economy.
     </p>
     <p>
-      [Download My CV (PDF)](/docs/CV Disem SULA.pdf
+      [Download My CV (PDF)](/docs/CV Disem SULA.pdf)
     </p>
   </div>
 </div>
