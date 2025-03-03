@@ -1,3 +1,10 @@
+<nav style="text-align: right; margin-bottom: 1rem;">
+  <a href="/projects/">Projects</a> |
+  <a href="/Literature reviews/">Literature Reviews</a> |
+  <a href="/docs/CV Disem SULA.pdf">CV</a> |
+  <a href="/Master-Thesis-(ongoing)/">Master Thesis (ongoing)</a>
+</nav>
+
 ---
 layout: default
 title: Home
@@ -14,9 +21,6 @@ title: Home
     <p>
       I am an MSc student Research in Finance at University Paris Dauphine PSL, undergoing a PhD Qualifying Year.
       After completing a first year master degree in Quantitative Economics, I joined the MSc in Research in Finance to specialise in Finance, especially in Sustainable Finance, including energy and commodities to boost the transition to a green economy.
-    </p>
-    <p>
-      [Download My CV (PDF)](/docs/CV Disem SULA.pdf)
     </p>
   </div>
 </div>
